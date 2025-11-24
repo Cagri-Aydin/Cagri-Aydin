@@ -1,10 +1,10 @@
-<h1 align="center">Selamlar👋, ben Çağrı Aydın</h1>
+<h1 align="center">Heyyooo👋, ben Çağrı Aydın</h1>
 <h3 align="center">High-tech curious student with absolutely no idea</h3>
 
 - 👨‍💻 I’m currently working on [Ultrasonic-AESA-Radar](https://github.com/Cagri-Aydin/Ultrasonic-AESA-Radar)
 - 👨‍💻 I’m currently working on **my thesis**
 - ⚡ Founder of TCG website [BulPazar](https://bulpazar.com.tr/)
-- 📫 E-mail: **aydin.cagri1644@gmail.com**
+
 
 <table align="center">
   <tr>
@@ -46,7 +46,7 @@
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-      <a href="http://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gazebosim/gazebosim-icon.svg" alt="gazebo" width="40" height="40"/> </a>
+      <a href="http://gazebosim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gazebosim/media/master/logos/gazebo_logo_NoText.png" alt="gazebo" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
