@@ -18,55 +18,55 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td align="center">
+    <!-- Frontend -->
+    <td align="center" width="300px">
       <h3>Frontend Development</h3>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="50" height="50"/>
+        alt="react" width="60" height="60"/>
       </a>
     </td>
 
-    <td align="center">
+    <!-- Backend -->
+    <td align="center" width="300px">
       <h3>Backend Development</h3>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="50" height="50"/>
+        alt="nodejs" width="60" height="60"/>
       </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="50" height="50"/>
+        alt="express" width="60" height="60"/>
       </a>
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-        alt="nginx" width="50" height="50"/>
+        alt="nginx" width="60" height="60"/>
       </a>
     </td>
 
-    <td align="center">
+    <!-- Database -->
+    <td align="center" width="300px">
       <h3>Database</h3>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="50" height="50"/>
+        alt="postgresql" width="60" height="60"/>
       </a>
       <a href="https://redis.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-        alt="redis" width="50" height="50"/>
+        alt="redis" width="60" height="60"/>
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="50" height="50"/>
+        alt="mysql" width="60" height="60"/>
       </a>
     </td>
   </tr>
 </table>
 
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
