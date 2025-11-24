@@ -20,48 +20,41 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center">
 
   <!-- Frontend -->
-  <div align="center">
-    <h3>Frontend Development</h3>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="60" height="60"/>
+  <div style="display:inline-block; margin: 20px;">
+    <h3>Frontend</h3>
+    <a href="https://reactjs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/>
     </a>
   </div>
 
   <!-- Backend -->
-  <div align="center">
-    <h3>Backend Development</h3>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="60" height="60"/>
+  <div style="display:inline-block; margin: 20px;">
+    <h3>Backend</h3>
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="60" height="60"/>
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"/>
     </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx" width="60" height="60"/>
+    <a href="https://www.nginx.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60"/>
     </a>
   </div>
 
   <!-- Database -->
-  <div align="center">
+  <div style="display:inline-block; margin: 20px;">
     <h3>Database</h3>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="60" height="60"/>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60"/>
     </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis" width="60" height="60"/>
+    <a href="https://redis.io/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="60" height="60"/>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
     </a>
   </div>
 
