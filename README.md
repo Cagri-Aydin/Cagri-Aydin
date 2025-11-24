@@ -20,52 +20,52 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<table align="center">
-  <tr>
-    <!-- Frontend -->
-    <td align="center" width="300px">
-      <h3>Frontend Development</h3>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="60" height="60"/>
-      </a>
-    </td>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-    <!-- Backend -->
-    <td align="center" width="300px">
-      <h3>Backend Development</h3>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="60" height="60"/>
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express" width="60" height="60"/>
-      </a>
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-        alt="nginx" width="60" height="60"/>
-      </a>
-    </td>
+  <!-- Frontend -->
+  <div align="center">
+    <h3>Frontend Development</h3>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react" width="60" height="60"/>
+    </a>
+  </div>
 
-    <!-- Database -->
-    <td align="center" width="300px">
-      <h3>Database</h3>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="60" height="60"/>
-      </a>
-      <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-        alt="redis" width="60" height="60"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="60" height="60"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- Backend -->
+  <div align="center">
+    <h3>Backend Development</h3>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="60" height="60"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express" width="60" height="60"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+      alt="nginx" width="60" height="60"/>
+    </a>
+  </div>
+
+  <!-- Database -->
+  <div align="center">
+    <h3>Database</h3>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql" width="60" height="60"/>
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis" width="60" height="60"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="60" height="60"/>
+    </a>
+  </div>
+
+</div>
 
 
 
