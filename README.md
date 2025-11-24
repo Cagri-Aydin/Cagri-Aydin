@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Çağrı Aydın</h1>
+<h1 align="center">Selamlar👋, ben Çağrı Aydın</h1>
 <h3 align="center">High-tech curious student</h3>
 
-- 🔭 I’m currently working on [Ultrasonic-AESA-Radar](https://github.com/Cagri-Aydin/Ultrasonic-AESA-Radar)
+- 👨‍💻 I’m currently working on [Ultrasonic-AESA-Radar](https://github.com/Cagri-Aydin/Ultrasonic-AESA-Radar)
 
-- 👯 I’m currently working on **my thesis**
+- 👨‍💻 I’m currently working on **my thesis**
+
+- ⚡ Founder of TCG website [BulPazar](https://bulpazar.com.tr/)
+
+- 📫 E-mail: **aydin.cagri1644@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/cagri-aydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cagri-aydin" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/cagriayd16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cagriayd16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
