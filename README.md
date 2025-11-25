@@ -2,7 +2,7 @@
 <h3 align="center">High-tech curious student with absolutely no idea</h3>
 
 - 👨‍💻 I’m currently working on [Ultrasonic-AESA-Radar](https://github.com/Cagri-Aydin/Ultrasonic-AESA-Radar)
-- 👨‍💻 I’m currently working on **my thesis**
+- 👨‍💻 I’m currently working on **my thesis (Real-Time Manegement of Swarm Drones With Geastures)**
 - ⚡ Founder of TCG website [BulPazar](https://bulpazar.com.tr/)
 
 
