@@ -1,4 +1,4 @@
-<h1 align="center">Heyyooo👋, ben Çağrı Aydın</h1>
+<h1 align="center">Heyyooo👋</h1>
 <h3 align="center">High-tech curious student with absolutely no idea</h3>
 
 - 👨‍💻 I’m currently working on [Ultrasonic-AESA-Radar](https://github.com/Cagri-Aydin/Ultrasonic-AESA-Radar)
